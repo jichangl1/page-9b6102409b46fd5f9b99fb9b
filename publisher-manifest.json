@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "73708dca2602ae62ecea4d4e",
+  "owner": "jichangl1",
+  "repo": "page-9b6102409b46fd5f9b99fb9b",
+  "title": "BestVpn",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9b6102409b46fd5f9b99fb9b",
+      "a": "BestVpn",
+      "b": "2027官方最新地址导航",
+      "entity": "BestVpn",
+      "brand": "BestVpn",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0f77dada7d20e6a1c5804845a0920a36d8f938c346923435c2b5f2bda3ff87d5",
+      "content": {
+        "primary_entity": "BestVpn",
+        "keyword1": "BestVpn",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，BestVpn 面向海外访问场景，提供多档订阅与多平台客户端配置。基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线；团队版每月 1000GB、支持 20 台设备。按年付分别约 ¥150、¥350、¥850，可依设备数量与流量需求挑选。",
+          "AI_HERO_SUBTITLE": "多平台客户端，按需挑选订阅",
+          "AI_HERO_INTRO": "BestVpn 提供基础版、旗舰版与团队版三档订阅，覆盖不同流量与设备数量需求。客户端支持在常用系统上手动导入订阅，节点池按套餐等级分配，适合出差、跨境办公与流媒体访问等日常场景。",
+          "AI_VISUAL_TITLE": "BestVpn 订阅与客户端配置",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_FEATURES_TITLE": "订阅与使用要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量和线路等级三个角度评估套餐，再按客户端文档完成订阅导入。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按日常同时在线设备数选择。",
+          "AI_FEATURE_TITLE_2": "按流量与线路选档",
+          "AI_FEATURE_TEXT_2": "各档每月流量为 100GB、300GB、1000GB，旗舰版与团队版线路等级更高。",
+          "AI_FEATURE_TITLE_3": "按周期核算成本",
+          "AI_FEATURE_TEXT_3": "月付价格分别为 ¥15、¥35、¥85，按年付约 ¥150、¥350、¥850，长期使用更划算。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "依照设备系统选择对应客户端，导入订阅后即可切换节点；不同系统版本的表现可能略有差异。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版适合多设备与流媒体需求，团队版适合高流量多设备场景。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "先确认需求，再核对套餐适配的客户端，最后按客户端指引导入订阅。",
+          "AI_STEP_TITLE_1": "确认需求",
+          "AI_STEP_TEXT_1": "统计常用设备数量与每月大致流量，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对设备系统与客户端版本，确认可用的导入方式与协议选项。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "按客户端文档复制订阅链接并导入，节点更新后重新拉取即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_CLOSING_TITLE": "选好套餐再开始",
+          "AI_CLOSING_TEXT": "按设备数与流量挑一档，跟着客户端文档导入订阅就能用起来。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备在线。适合轻度浏览和流媒体需求的个人用户。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备在线，团队版支持 20 台设备在线，可根据常用设备数量选择合适的套餐。",
+          "AI_FAQ_ANSWER_3": "可以。基础版解锁基础流媒体，旗舰版提供全节点原生流媒体解锁，团队版包含 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_4": "按年付比按月付更划算，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_ANSWER_5": "订阅链接在套餐页面或账户中心获取，不同客户端导入方式不同，按对应客户端的使用文档操作即可完成配置。",
+          "AI_FAQ_QUESTION_1": "基础版包含多少流量和设备数量？",
+          "AI_FAQ_QUESTION_2": "旗舰版最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "不同套餐的流媒体解锁能力有区别吗？",
+          "AI_FAQ_QUESTION_4": "按年付有什么价格优惠？",
+          "AI_FAQ_QUESTION_5": "如何将 BestVpn 订阅导入客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "563l1v.cn",
+    "host": "563l1v.cn"
+  },
+  "file_hashes": {
+    "index.html": "127b2d1a2581d6183140ecf5f1788ded169a97ae97fcd953e4bff54105ed8787",
+    "sitemap.xml": "9ce03462e1284c2361b50d722aa87d438c51405a60f1acabab15f605e803e5cd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1a06a27eb9a60d1992b194c7d27585664dcec9d044efecc8c00f95c981f4b54e",
+    "robots.txt": "92cab555bf71ad942f3be3e3839fb95a3a235ec8ca62b4a6701923e36f64a1d7",
+    "18a73d00cb86f55355f6128f7d5da730.txt": "c0e0704f5a085f7e5c03963e4359b157eb8397f0f2b69ab4ada774876af881df"
+  },
+  "revision": "07850edc5340ca6340344e32c583d7ad9ed88fa1b2f643447fd5c0ce8162d742"
+}
